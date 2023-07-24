@@ -1,5 +1,5 @@
 # Muslim App
-Aplikasi untuk menyediakan kebutuhan bagi umat Islam termasuk pengingat sholat, petunjuk arah kiblat, mancari hadist, Alquran terjemahan dan Asmaulhusna.
+Aplikasi untuk menyediakan kebutuhan bagi umat Islam termasuk pengingat sholat, petunjuk arah kiblat, masjid terdekat, mancari hadist, Alquran terjemahan dan Asmaulhusna.
 
 ### Fitur
 - Waktu sholat
@@ -9,12 +9,10 @@ Aplikasi untuk menyediakan kebutuhan bagi umat Islam termasuk pengingat sholat, 
 - Asmaulhusna dan audio
 - Cari hadist
 - Kelender Hijriah dan hari besar Umat Islam
+- Masjid sekitar
 
 ### Api
 - **Al-Quran dan Tafsir** => https://quran.kemenag.go.id
 - **Jadwal sholat** => https://api.myquran.com
 - **Cari hadist** => https://carihadis.com
 - **Asmaulhusna** => https://github.com/soachishti/Asma-ul-Husna
-
-![Banner](/screenshots/banner-screen-app.jpg)
-![Prayer](/screenshots/screen-prayer-time.jpg)
